@@ -1,7 +1,10 @@
 {
   "semi": false,
-  "singleQuote": true,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "proseWrap": "preserve",
   "tabWidth": 2,
-  "trailingComma": "es5",
+  "trailingComma": "none",
   "printWidth": 100
 }
